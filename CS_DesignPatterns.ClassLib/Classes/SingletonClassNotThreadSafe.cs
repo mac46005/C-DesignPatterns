@@ -1,6 +1,9 @@
 
 namespace CS_DesignPatterns.ClassLib.Classes
 {
+    //* Singleton Design Pattern
+    //? A Singleton is a class which only allows a single instance of it to be created. In the application run time, only one single instance of the singleton class will exist for all users.
+
     //Not Thread-safe version of a Singleton
     public sealed class SingletonClassNotThreadSafe
     {
