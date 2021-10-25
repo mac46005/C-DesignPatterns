@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CS_DesignPatterns.ClassLib\CS_DesignPatterns.ClassLib.csproj" />
+    <ProjectReference Include="..\PracticeDesignPatterns.ClassLib\PracticeDesignPatterns.ClassLib.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

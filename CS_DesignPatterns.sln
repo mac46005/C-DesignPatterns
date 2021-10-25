@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_DesignPatterns.ClassLib", "CS_DesignPatterns.ClassLib\CS_DesignPatterns.ClassLib.csproj", "{071F8CDB-6481-4649-9A6A-7A06B941793F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeDesignPatterns.ClassLib", "PracticeDesignPatterns.ClassLib\PracticeDesignPatterns.ClassLib.csproj", "{CAFAEE38-9A6C-483A-8001-D1B547747709}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{071F8CDB-6481-4649-9A6A-7A06B941793F}.Release|x64.Build.0 = Release|Any CPU
 		{071F8CDB-6481-4649-9A6A-7A06B941793F}.Release|x86.ActiveCfg = Release|Any CPU
 		{071F8CDB-6481-4649-9A6A-7A06B941793F}.Release|x86.Build.0 = Release|Any CPU
+		{CAFAEE38-9A6C-483A-8001-D1B547747709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFAEE38-9A6C-483A-8001-D1B547747709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFAEE38-9A6C-483A-8001-D1B547747709}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CAFAEE38-9A6C-483A-8001-D1B547747709}.Debug|x64.Build.0 = Debug|Any CPU
+		{CAFAEE38-9A6C-483A-8001-D1B547747709}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CAFAEE38-9A6C-483A-8001-D1B547747709}.Debug|x86.Build.0 = Debug|Any CPU
+		{CAFAEE38-9A6C-483A-8001-D1B547747709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFAEE38-9A6C-483A-8001-D1B547747709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAFAEE38-9A6C-483A-8001-D1B547747709}.Release|x64.ActiveCfg = Release|Any CPU
+		{CAFAEE38-9A6C-483A-8001-D1B547747709}.Release|x64.Build.0 = Release|Any CPU
+		{CAFAEE38-9A6C-483A-8001-D1B547747709}.Release|x86.ActiveCfg = Release|Any CPU
+		{CAFAEE38-9A6C-483A-8001-D1B547747709}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,4 +1,5 @@
 ﻿using System;
+using CS_DesignPatterns.ClassLib.Classes;
 
 namespace ConsoleUI
 {
@@ -6,6 +7,7 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Hello World!");
         }
     }
