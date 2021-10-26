@@ -16,7 +16,7 @@ namespace CS_DesignPatterns.ClassLib.Classes.Memento
             return new StateObject{
                 Id = this.Id,
                 Name = this.Name
-            }
+            };
         }
 
         public override string ToString()
