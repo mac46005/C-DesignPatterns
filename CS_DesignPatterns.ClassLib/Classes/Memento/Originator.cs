@@ -17,8 +17,8 @@ namespace CS_DesignPatterns.ClassLib.Classes.Memento{
         public void SetState(T state){
             this.StateObj = state;
         }
-        public void ShowState(T state){
-            this.StateObj = state;
+        public void ShowState(){
+            Console.WriteLine(this.StateObj.ToString());
         }
 
     }
