@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 
 namespace CS_DesignPatterns.ClassLib.Classes.Memento{
+    //* The memento Design Pattern provide means to keep track of the states of an object
+
     //* This is the structure that will manage the objects states through a list of Memento
     //* The client uses this structure to save and restore states
     public class CareTaker<T> where T : ICloneable{
